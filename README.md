@@ -1,15 +1,3 @@
-Perfect — I’ll turn that into a **clean, professional GitHub README** that is:
-
-* readable (not a paper dump)
-* honest about negative results
-* research-grade
-* suitable for reviewers, recruiters, or collaborators
-
-Below is a **ready-to-paste `README.md`**.
-You can use it **as-is**.
-
----
-
 # 🧠 Inducing Compositional Reasoning via Architectural Bottlenecks in Tiny Transformers
 
 This repository presents a systematic experimental study on whether **architectural constraints**, rather than model scale, can induce **compositional reasoning** in small Transformer models.
